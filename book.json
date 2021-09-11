@@ -1,0 +1,142 @@
+{
+  "title": "好用的画图工具",
+  "description": "总结常用的各种画图工具，搞清楚优劣，方便你找到适合自己的画图工具。包括画图中图表类和流程图、脑图等常见图的类型。分别介绍了几大类的图，包括通用类、脑图、地图等；以及分别介绍了，通用类图的客户端软件、在线网站、以及离线和在线都支持的、以及js库。包括通用类客户端软件中的Diagrams；以及在线画图网站中的processon、Gliffy；在线离线都有的draw.io；以及js库，比如mermaid.js以及其中的Markdown、flowchart.js；介绍了脑图中，离线在线都有的幕布，跨平台的客户端软件，比如Xmind、MindManager、Freemind；以及画脑图在线网站的百度脑图、Mindomo等；能画地图的js库，比如leaflet.js，以及对应Python接口的Folium；还介绍了其他格式，比如Markdown中画图、Latex中画图、专门画云系统架构图的Diagrams。",
+  "pluginsConfig": {
+    "autocover": {
+      "title": "Gitbook演示"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "best_diagram_tool",
+          "user": "crifan",
+          "type": "star",
+          "count": true,
+          "size": "small"
+        },
+        {
+          "user": "crifan",
+          "type": "follow",
+          "width": "120",
+          "count": false,
+          "size": "small"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/books/best_diagram_tool/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.com/books/best_diagram_tool/pdf/best_diagram_tool.pdf",
+      "icon": "fa-file-pdf-o",
+      "label": "下载PDF"
+    },
+    "google-adsense": {
+      "ads": [
+        {
+          "client": "ca-pub-6626240105039250"
+        }
+      ]
+    },
+    "callouts": {
+      "showTypeInHeader": false
+    },
+    "theme-default": {
+      "showLevel": true
+    },
+    "disqus": {
+      "shortName": "crifan"
+    },
+    "prism": {
+      "css": [
+        "prism-themes/themes/prism-atom-dark.css"
+      ]
+    },
+    "sharing": {
+      "douban": false,
+      "facebook": true,
+      "google": false,
+      "hatenaBookmark": false,
+      "instapaper": false,
+      "line": false,
+      "linkedin": false,
+      "messenger": false,
+      "pocket": false,
+      "qq": true,
+      "qzone": false,
+      "stumbleupon": false,
+      "twitter": true,
+      "viber": false,
+      "vk": false,
+      "weibo": true,
+      "whatsapp": false,
+      "all": [
+        "douban",
+        "facebook",
+        "google",
+        "instapaper",
+        "line",
+        "linkedin",
+        "messenger",
+        "pocket",
+        "qq",
+        "qzone",
+        "stumbleupon",
+        "twitter",
+        "viber",
+        "vk",
+        "weibo",
+        "whatsapp"
+      ]
+    },
+    "tbfed-pagefooter": {
+      "copyright": "crifan.com，使用<a href='https://creativecommons.org/licenses/by/4.0/deed.zh'>署名4.0国际(CC BY 4.0)协议</a>发布",
+      "modify_label": "最后更新：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "ga": {
+      "token": "UA-28297199-1"
+    },
+    "donate": {
+      "wechat": "https://www.crifan.com/files/res/crifan_com/crifan_wechat_pay.jpg",
+      "alipay": "https://www.crifan.com/files/res/crifan_com/crifan_alipay_pay.jpg",
+      "title": "",
+      "button": "打赏",
+      "alipayText": "支付宝打赏给Crifan",
+      "wechatText": "微信打赏给Crifan"
+    }
+  },
+  "author": "Crifan Li <admin@crifan.com>",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+  "root": "./src",
+  "links": {
+    "sidebar": {
+      "主页": "http://www.crifan.com"
+    }
+  },
+  "plugins": [
+    "google-adsense",
+    "theme-comscore",
+    "anchors",
+    "-lunr",
+    "-search",
+    "search-plus",
+    "disqus",
+    "-highlight",
+    "prism",
+    "prism-themes",
+    "github-buttons",
+    "splitter",
+    "-sharing",
+    "sharing-plus",
+    "tbfed-pagefooter",
+    "expandable-chapters-small",
+    "ga",
+    "donate",
+    "sitemap-general",
+    "copy-code-button",
+    "callouts",
+    "toolbar-button"
+  ]
+}

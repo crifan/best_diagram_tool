@@ -1,0 +1,22 @@
+{
+  "title": "好用的画图工具",
+  "description": "总结常用的各种画图工具，搞清楚优劣，方便你找到适合自己的画图工具。包括画图中图表类和流程图、脑图等常见图的类型。分别介绍了几大类的图，包括通用类、脑图、地图等；以及分别介绍了，通用类图的客户端软件、在线网站、以及离线和在线都支持的、以及js库。包括通用类客户端软件中的Diagrams；以及在线画图网站中的processon、Gliffy；在线离线都有的draw.io；以及js库，比如mermaid.js以及其中的Markdown、flowchart.js；介绍了脑图中，离线在线都有的幕布，跨平台的客户端软件，比如Xmind、MindManager、Freemind；以及画脑图在线网站的百度脑图、Mindomo等；能画地图的js库，比如leaflet.js，以及对应Python接口的Folium；还介绍了其他格式，比如Markdown中画图、Latex中画图、专门画云系统架构图的Diagrams。",
+  "pluginsConfig": {
+    "autocover": {
+      "title": "Gitbook演示"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "best_diagram_tool"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/books/best_diagram_tool/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.com/books/best_diagram_tool/pdf/best_diagram_tool.pdf"
+    }
+  }
+}
