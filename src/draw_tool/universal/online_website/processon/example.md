@@ -1,175 +1,121 @@
 # processon举例
 
+## crifan
 
-TODO：
+### crifan电子书概览
 
-* 把自己的processon中其他的图，也都作为例子放过来
+* crifan电子书概览
+  * https://www.processon.com/view/link/5fa6221f637689653d8b9a1c
+    * ![processon_crifan_ebook_overview](../../../../assets/img/processon_crifan_ebook_overview.jpg)
 
-## 画汽车销售领域客户状态变化流程图
+## 计算机技术 20191115
 
-### 最终效果
+* 计算机技术 20191115
+  * https://www.processon.com/view/link/5e61ac91e4b0a967bb38f95b
+    * ![processon_crifan_it_tech](../../../../assets/img/processon_crifan_it_tech.jpg)
 
-* 本地=离线=图片
-  * ![processon_flow_customer_4s](../../../../assets/img/processon_flow_customer_4s.png)
-* 在线=网页
-  * 汽车销售领域客户状态变化流程结构图 | ProcessOn免费在线作图,在线流程图,在线思维导图
-    * https://www.processon.com/view/link/5a604c7ae4b0a447b9adda93
+## 安全
 
-### 画图过程
+### 安全技术概览
 
-新建文件：
+#### 安全技术概览范畴图
 
-![processon_car_customer_new](../../../../assets/img/processon_car_customer_new.png)
+* 安全技术概览范畴图
+  * https://www.processon.com/view/link/60d2fb470791297edd62f2e3
+    * ![processon_crifan_security_overview](../../../../assets/img/processon_crifan_security_overview.jpg)
 
-未命名文件：
+#### 安全技术概览脑图 20210624
 
-![processon_car_customer_unnamed](../../../../assets/img/processon_car_customer_unnamed.png)
+* 安全技术概览脑图 20210624
+  * https://www.processon.com/view/link/60d3e0bb0e3e742d29cce910
+    * ![processon_crifan_security_mindmap](../../../../assets/img/processon_crifan_security_mindmap.jpg)
 
-然后就是，从左边拖动元素，到画布中，一点点编辑了。
+### Web安全
 
-期间的效果：
+#### Web安全攻防流程和常用概念
 
-导航=缩略图预览：
+* Web安全攻防流程和常用概念
+  * https://www.processon.com/view/link/60b9f1b3f346fb5e0b2007bc
+    * ![processon_crifan_web_attach_flow](../../../../assets/img/processon_crifan_web_attach_flow.jpg)
 
-![processon_car_customer_part_navi](../../../../assets/img/processon_car_customer_part_navi.png)
+## 爬虫
 
-以及可以用各种细节的功能：
+### Spider Roadmap 20200714
 
-调整文本颜色：
+* Spider Roadmap 20200714
+  * https://www.processon.com/view/link/5d12dba7e4b09b096ead6880
+    * ![processon_crifan_spider_roadmap](../../../../assets/img/processon_crifan_spider_roadmap.jpg)
 
-![processon_car_customer_text_color](../../../../assets/img/processon_car_customer_text_color.png)
+## 移动端自动化
 
-对齐方式：
+### facebook-wda架构流程图
 
-![processon_car_customer_text_align](../../../../assets/img/processon_car_customer_text_align.png)
+* facebook-wda架构流程图
+  * https://www.processon.com/view/link/5eb3689e5653bb07215954bf
+    * ![processon_crifan_wda_arch](../../../../assets/img/processon_crifan_wda_arch.jpg)
 
-填充样式：
+## 正则表达式
 
-![processon_car_customer_fill](../../../../assets/img/processon_car_customer_fill.png)
+### 一图让你看懂和记住所有正则表达式规则
 
-线条颜色：
+* 一图让你看懂和记住所有正则表达式规则
+  * https://www.processon.com/view/link/5e3f7ca3e4b0a3daae81090f
+    * ![processon_crifan_regex_rule](../../../../assets/img/processon_crifan_regex_rule.jpg)
 
-![processon_car_customer_line_color](../../../../assets/img/processon_car_customer_line_color.png)
+### 正则表达式详解：look ahead和look behind
 
-线条宽度：
+* 正则表达式详解：look ahead和look behind
+  * https://www.processon.com/view/link/5e3a5bdbe4b06b291a60f195
+    * ![processon_crifan_re_look_ahead_behind](../../../../assets/img/processon_crifan_re_look_ahead_behind.jpg)
 
-![processon_car_customer_line_width](../../../../assets/img/processon_car_customer_line_width.png)
+## 房贷
 
-线条样式：
+### 央行MLF 商业银行LPR 地方政府加点 个人房贷利率 关系
 
-![processon_car_customer_line_style](../../../../assets/img/processon_car_customer_line_style.png)
+* 央行MLF 商业银行LPR 地方政府加点 个人房贷利率 关系
+  * https://www.processon.com/view/link/5e5fb18ae4b099155f9810ed
+    * ![processon_crifan_mlf_lpr](../../../../assets/img/processon_crifan_mlf_lpr.jpg)
 
-连线类型：
+## 硬件
 
-![processon_car_customer_connect_line_type](../../../../assets/img/processon_car_customer_connect_line_type.png)
+### 芯片
 
-线条的起始和终点的样式：
+#### 芯片相关名词对比 20190327
 
-![processon_car_customer_line_start_type](../../../../assets/img/processon_car_customer_line_start_type.png)
+* 芯片相关名词对比 20190327
+  * https://www.processon.com/view/link/5c91f1b6e4b09a16b9a9acfe
+    * ![processon_crifan_chip_names](../../../../assets/img/processon_crifan_chip_names.jpg)
 
-![processon_car_customer_line_end_type](../../../../assets/img/processon_car_customer_line_end_type.png)
+#### 常见芯片相关公司的关系 20190326
 
-编辑对象：
+* 常见芯片相关公司的关系 20190326
+  * https://www.processon.com/view/link/5c88afbce4b0ed6b42ff12c5
+    * ![processon_crifan_chip_relation](../../../../assets/img/processon_crifan_chip_relation.jpg)
 
-![processon_car_customer_obj_edit](../../../../assets/img/processon_car_customer_obj_edit.png)
+## 通信
 
-布局调整：
+### 频谱、无线电波、移动通信、4G、5G之间关系
 
-图形对齐：
+* 频谱、无线电波、移动通信、4G、5G之间关系
+  * https://www.processon.com/view/link/606172be1e0853028ab4c4b0
+    * ![processon_crifan_wireless_relation](../../../../assets/img/processon_crifan_wireless_relation.jpg)
 
-![processon_car_customer_layout_shape_align](../../../../assets/img/processon_car_customer_layout_shape_align.png)
+### RCS演化历史
 
-图形分布：
+* RCS演化历史
+  * https://www.processon.com/view/link/5f5ad62b07912902cf81b60a
+    * ![processon_crifan_rcs_history](../../../../assets/img/processon_crifan_rcs_history.jpg)
 
-![processon_car_customer_layout_shape_distribution](../../../../assets/img/processon_car_customer_layout_shape_distribution.png)
+### RCS/IMS/TISPAN/NGN架构和相关组织关系图
 
-匹配大小：
+* RCS/IMS/TISPAN/NGN架构和相关组织关系图
+  * https://www.processon.com/view/link/5f48c086f346fb2e2959bfbb
+    * ![processon_crifan_ims_arch_orgs](../../../../assets/img/processon_crifan_ims_arch_orgs.jpg)
 
-![processon_car_customer_layout_mapping_size](../../../../assets/img/processon_car_customer_layout_mapping_size.png)
+## 汽车
 
-格式刷：
+### 汽车销售领域客户状态变化流程结构图
 
-![processon_car_customer_format_brush](../../../../assets/img/processon_car_customer_format_brush.png)
-
-右边的导航栏：
-
-导航：
-
-![processon_car_customer_bar_navi](../../../../assets/img/processon_car_customer_bar_navi.png)
-
-图形：
-
-![processon_car_customer_bar_shape](../../../../assets/img/processon_car_customer_bar_shape.png)
-
-度量：
-
-![processon_car_customer_bar_measure](../../../../assets/img/processon_car_customer_bar_measure.png)
-
-数据属性：
-
-![processon_car_customer_bar_data_attrib](../../../../assets/img/processon_car_customer_bar_data_attrib.png)
-
-页面属性：
-
-![processon_car_customer_bar_page_attrib](../../../../assets/img/processon_car_customer_bar_page_attrib.png)
-
-页面属性-》页面大小 自定义：
-
-![processon_car_customer_bar_page_attrib_size](../../../../assets/img/processon_car_customer_bar_page_attrib_size.png)
-
-历史版本：
-
-![processon_car_customer_bar_history](../../../../assets/img/processon_car_customer_bar_history.png)
-
-评论：
-
-![processon_car_customer_bar_comment](../../../../assets/img/processon_car_customer_bar_comment.png)
-
-### 画完图后
-
-#### 下载=导出文件
-
-导出图片：
-
-支持多种格式：
-
-* 图片
-  * png
-  * jpg
-  * svg
-* 文件
-  * pdf
-
-下载格式：
-
-![processon_car_customer_download](../../../../assets/img/processon_car_customer_download.png)
-
-下载到的多种格式的文件：
-
-![processon_car_customer_downloaded_file](../../../../assets/img/processon_car_customer_downloaded_file.png)
-
-#### 群协作
-
-![processon_car_customer_group_share](../../../../assets/img/processon_car_customer_group_share.png)
-
-![processon_car_customer_group_member](../../../../assets/img/processon_car_customer_group_member.png)
-
-#### 分享
-
-点击分享，会生成链接：
-
-![processon_car_customer_share_link](../../../../assets/img/processon_car_customer_share_link.png)
-
-即可在线页面查看：
-
-汽车销售领域客户状态变化流程结构图 | ProcessOn免费在线作图,在线流程图,在线思维导图
-
-https://www.processon.com/view/link/5a604c7ae4b0a447b9adda93
-
-#### 发布
-
-也可以根据需要去发布：
-
-![processon_car_customer_publish](../../../../assets/img/processon_car_customer_publish.png)
-
-![processon_car_customer_to_publish](../../../../assets/img/processon_car_customer_to_publish.png)
+* 汽车销售领域客户状态变化流程结构图 | ProcessOn免费在线作图,在线流程图,在线思维导图
+  * https://www.processon.com/view/link/5a604c7ae4b0a447b9adda93
+    * ![processon_flow_customer_4s](../../../../assets/img/processon_flow_customer_4s.png)
