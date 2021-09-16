@@ -9,6 +9,31 @@
     * 文档
       * mermaid - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs
         * https://mermaid-js.github.io/mermaid/
+    * 举例
+      * Examples - mermaid - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.
+        * https://mermaid-js.github.io/mermaid/#/examples?id=message-to-self-in-loop
+    * 支持不同类型的图
+      * flowchart
+        * https://mermaid-js.github.io/mermaid/#/flowchart
+      * Sequence diagrams
+        * https://mermaid-js.github.io/mermaid/#/sequenceDiagram
+      * Class diagrams
+        * https://mermaid-js.github.io/mermaid/#/classDiagram
+      * State diagrams
+        * https://mermaid-js.github.io/mermaid/#/stateDiagram
+      * Entity Relationship Diagrams
+        * https://mermaid-js.github.io/mermaid/#/entityRelationshipDiagram
+      * User Journey Diagram
+        * https://mermaid-js.github.io/mermaid/#/user-journey
+      * Gantt diagrams
+        * https://mermaid-js.github.io/mermaid/#/gantt
+      * Pie chart diagrams
+        * https://mermaid-js.github.io/mermaid/#/pie
+      * Requirement Diagram
+        * https://mermaid-js.github.io/mermaid/#/requirementDiagram
+      * Other Examples
+        * https://mermaid-js.github.io/mermaid/#/examples
+
 ## 在线编辑（预览、导出）
 
 * Mermaid live editor
